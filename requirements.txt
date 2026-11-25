@@ -1,0 +1,13 @@
+livekit-agents[google,sarvam,silero]==1.8.13
+livekit-api==1.2.3
+fastapi==0.165.0
+uvicorn[standard]==0.54.0
+pydantic-settings==2.16.3
+python-dotenv
+fastembed==0.9.1
+numpy
+pypdf==7.1.1
+python-docx==1.2.0
+python-multipart==0.0.34
+pytest
+pytest-asyncio
