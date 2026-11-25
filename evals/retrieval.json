@@ -1,0 +1,39 @@
+{
+  "answerable": [
+    {"q": "How much is the Starter plan?", "expect": "₹499 per month"},
+    {"q": "Starter plan की कीमत कितनी है?", "expect": "₹499 per month"},
+    {"q": "What does the Growth plan include?", "expect": "1,000 invoices per month"},
+    {"q": "Growth plan mein kitne users milte hain?", "expect": "up to 5 users"},
+    {"q": "We have twenty staff who need access, which plan fits?", "expect": "up to 20 users"},
+    {"q": "Is there a discount if we pay yearly?", "expect": "20 percent discount"},
+    {"q": "साल भर का भुगतान करने पर क्या छूट मिलती है?", "expect": "20 percent discount"},
+    {"q": "Can I try it before buying?", "expect": "14 day free trial"},
+    {"q": "kya free trial hai?", "expect": "14 day free trial"},
+    {"q": "What is your refund policy?", "expect": "within 15 days"},
+    {"q": "अगर हम बंद करना चाहें तो पैसे वापस मिलेंगे?", "expect": "within 15 days"},
+    {"q": "Does it calculate GST automatically?", "expect": "CGST, SGST and IGST"},
+    {"q": "क्या आप सीधे GST return file करते हैं?", "expect": "does not file GST returns"},
+    {"q": "How can my customers pay the invoices?", "expect": "UPI"},
+    {"q": "UPI से payment ले सकते हैं क्या?", "expect": "UPI"},
+    {"q": "Does it work with Tally?", "expect": "Tally in XML"},
+    {"q": "क्या API मिलती है?", "expect": "REST API"},
+    {"q": "Do you have a mobile app?", "expect": "Android and iOS"},
+    {"q": "bina internet ke invoice bana sakte hain?", "expect": "offline on Android"},
+    {"q": "Where is our data stored?", "expect": "located in India"},
+    {"q": "हमारा डेटा सुरक्षित है क्या?", "expect": "encrypted"},
+    {"q": "How long does setup take?", "expect": "about one day"},
+    {"q": "Excel se purana data import ho jayega?", "expect": "imported from an Excel file"},
+    {"q": "What are your support timings?", "expect": "9 am to 7 pm"},
+    {"q": "रविवार को सपोर्ट मिलता है?", "expect": "no support on Sundays"}
+  ],
+  "unanswerable": [
+    "What is the weather in Mumbai today?",
+    "Do you sell laptops?",
+    "Can you book a flight ticket for me?",
+    "आज क्रिकेट मैच कौन जीता?",
+    "Who is the prime minister of Japan?",
+    "mujhe pizza order karna hai, kaise karun?",
+    "What is the interest rate on a home loan?",
+    "क्या आप कार का बीमा करते हैं?"
+  ]
+}
