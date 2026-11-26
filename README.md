@@ -100,6 +100,7 @@ Gemini extracts facts. **Fixed rules calculate the score**, so every score can b
 accepted only if its quoted words appear in what the caller said. Two negative turns in a
 row flag the call for human follow-up. Sentiment does not change the score.
 
+Detailed flowcharts of every part are in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 The full design, including the scale-up target, is in
 [docs/SYSTEM_DESIGN.md](docs/SYSTEM_DESIGN.md).
 

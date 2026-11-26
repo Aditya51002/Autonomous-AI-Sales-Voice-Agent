@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 700" width="1400" height="700" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', 'Noto Sans Devanagari', sans-serif" role="img" aria-label="One conversation turn">
+<defs><marker id="solid" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#68707f"/></marker><marker id="dash" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#68707f"/></marker></defs>
+<rect width="100%" height="100%" rx="14" fill="#ffffff"/>
+<text x="40" y="44" font-size="24" fill="#16181d" font-weight="700" text-anchor="start">One conversation turn</text>
+<text x="40" y="70" font-size="14" fill="#596070" font-weight="400" text-anchor="start">What happens between the caller finishing a sentence and hearing the answer.</text>
+<rect x="60" y="130" width="260" height="125" rx="10" fill="#e8f1fd" stroke="#2f7fd8" stroke-width="1.8" data-box="1"/>
+<text x="190.0" y="172.0" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Caller speaks</text>
+<text x="190.0" y="191.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Browser microphone</text>
+<text x="190.0" y="208.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">English, Hindi</text>
+<text x="190.0" y="225.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">or Hinglish</text>
+<rect x="400" y="130" width="260" height="125" rx="10" fill="#f0ecfd" stroke="#7058d6" stroke-width="1.8" data-box="1"/>
+<text x="530.0" y="180.5" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">LiveKit</text>
+<text x="530.0" y="199.5" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Streams the audio</text>
+<text x="530.0" y="216.5" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">to the voice agent</text>
+<rect x="740" y="130" width="260" height="125" rx="10" fill="#fff0e5" stroke="#e2711d" stroke-width="1.8" data-box="1"/>
+<text x="870.0" y="172.0" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Speech-to-text</text>
+<text x="870.0" y="191.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Sarvam</text>
+<text x="870.0" y="208.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Transcript, language,</text>
+<text x="870.0" y="225.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">end of speech</text>
+<rect x="1080" y="130" width="260" height="125" rx="10" fill="#e3f6f1" stroke="#0f9c7e" stroke-width="1.8" data-box="1"/>
+<text x="1210.0" y="172.0" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Prepare the turn</text>
+<text x="1210.0" y="191.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Pick the language,</text>
+<text x="1210.0" y="208.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">add memory and</text>
+<text x="1210.0" y="225.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">known lead facts</text>
+<rect x="1080" y="320" width="260" height="125" rx="10" fill="#fdf6dc" stroke="#bd8b00" stroke-width="1.8" data-box="1"/>
+<text x="1210.0" y="362.0" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Search documents</text>
+<text x="1210.0" y="381.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">API + E5 model</text>
+<text x="1210.0" y="398.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Up to 4 passages,</text>
+<text x="1210.0" y="415.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">0.8 s time limit</text>
+<rect x="740" y="320" width="260" height="125" rx="10" fill="#fff0e5" stroke="#e2711d" stroke-width="1.8" data-box="1"/>
+<text x="870.0" y="362.0" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Write the reply</text>
+<text x="870.0" y="381.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Gemini</text>
+<text x="870.0" y="398.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Answers from the</text>
+<text x="870.0" y="415.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">passages</text>
+<rect x="400" y="320" width="260" height="125" rx="10" fill="#fff0e5" stroke="#e2711d" stroke-width="1.8" data-box="1"/>
+<text x="530.0" y="362.0" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Text-to-speech</text>
+<text x="530.0" y="381.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Sarvam</text>
+<text x="530.0" y="398.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Speaks as the text</text>
+<text x="530.0" y="415.0" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">arrives</text>
+<rect x="60" y="320" width="260" height="125" rx="10" fill="#e8f1fd" stroke="#2f7fd8" stroke-width="1.8" data-box="1"/>
+<text x="190.0" y="370.5" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Caller hears it</text>
+<text x="190.0" y="389.5" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Can interrupt</text>
+<text x="190.0" y="406.5" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">at any time</text>
+<rect x="40" y="485" width="1320" height="135" rx="16" fill="#e3f6f1" fill-opacity="0.35" stroke="#0f9c7e" stroke-width="1.5" stroke-dasharray="2 4"/>
+<text x="56" y="510" font-size="12" fill="#0f9c7e" font-weight="700" text-anchor="start">IN THE BACKGROUND · THE CALLER DOES NOT WAIT</text>
+<rect x="60" y="525" width="260" height="70" rx="10" fill="#e3f6f1" stroke="#0f9c7e" stroke-width="1.8" data-box="1"/>
+<text x="190.0" y="556.5" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Caller&#x27;s words</text>
+<text x="190.0" y="575.5" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Queued after each turn</text>
+<rect x="400" y="525" width="260" height="70" rx="10" fill="#fff0e5" stroke="#e2711d" stroke-width="1.8" data-box="1"/>
+<text x="530.0" y="556.5" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Gemini analysis</text>
+<text x="530.0" y="575.5" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Facts and sentiment</text>
+<rect x="740" y="525" width="260" height="70" rx="10" fill="#e3f6f1" stroke="#0f9c7e" stroke-width="1.8" data-box="1"/>
+<text x="870.0" y="556.5" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Scoring rules</text>
+<text x="870.0" y="575.5" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Score out of 100</text>
+<rect x="1080" y="525" width="260" height="70" rx="10" fill="#e3f6f1" stroke="#0f9c7e" stroke-width="1.8" data-box="1"/>
+<text x="1210.0" y="556.5" font-size="14.5" fill="#16181d" font-weight="650" text-anchor="middle">Lead panel &amp; database</text>
+<text x="1210.0" y="575.5" font-size="12.5" fill="#596070" font-weight="400" text-anchor="middle">Next question for the agent</text>
+<text x="40" y="655" font-size="13.5" fill="#16181d" font-weight="400" text-anchor="start">Interruption: if the caller talks for 0.5 s or more while the agent speaks, the voice stops and the new question is handled.</text>
+<text x="40" y="678" font-size="13.5" fill="#596070" font-weight="400" text-anchor="start">One simulated call measured 3.2 to 4.3 s before the reply began. The design target of 1.5 s is not yet met.</text>
+<path d="M 320 192 L 400 192" fill="none" stroke="#68707f" stroke-width="2" stroke-linejoin="round" marker-end="url(#solid)"/>
+<path d="M 660 192 L 740 192" fill="none" stroke="#68707f" stroke-width="2" stroke-linejoin="round" marker-end="url(#solid)"/>
+<path d="M 1000 192 L 1080 192" fill="none" stroke="#68707f" stroke-width="2" stroke-linejoin="round" marker-end="url(#solid)"/>
+<path d="M 1080 382 L 1000 382" fill="none" stroke="#68707f" stroke-width="2" stroke-linejoin="round" marker-end="url(#solid)"/>
+<path d="M 740 382 L 660 382" fill="none" stroke="#68707f" stroke-width="2" stroke-linejoin="round" marker-end="url(#solid)"/>
+<path d="M 400 382 L 320 382" fill="none" stroke="#68707f" stroke-width="2" stroke-linejoin="round" marker-end="url(#solid)"/>
+<path d="M 1210 255 L 1210 320" fill="none" stroke="#68707f" stroke-width="2" stroke-linejoin="round" marker-end="url(#solid)"/>
+<path d="M 320 560 L 400 560" fill="none" stroke="#68707f" stroke-width="2" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#dash)"/>
+<path d="M 660 560 L 740 560" fill="none" stroke="#68707f" stroke-width="2" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#dash)"/>
+<path d="M 1000 560 L 1080 560" fill="none" stroke="#68707f" stroke-width="2" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#dash)"/>
+<circle cx="64" cy="134" r="12" fill="#1b64be" stroke="#fff" stroke-width="2"/>
+<text x="64" y="138.5" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="middle">1</text>
+<circle cx="404" cy="134" r="12" fill="#1b64be" stroke="#fff" stroke-width="2"/>
+<text x="404" y="138.5" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="middle">2</text>
+<circle cx="744" cy="134" r="12" fill="#1b64be" stroke="#fff" stroke-width="2"/>
+<text x="744" y="138.5" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="middle">3</text>
+<circle cx="1084" cy="134" r="12" fill="#1b64be" stroke="#fff" stroke-width="2"/>
+<text x="1084" y="138.5" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="middle">4</text>
+<circle cx="1084" cy="324" r="12" fill="#1b64be" stroke="#fff" stroke-width="2"/>
+<text x="1084" y="328.5" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="middle">5</text>
+<circle cx="744" cy="324" r="12" fill="#1b64be" stroke="#fff" stroke-width="2"/>
+<text x="744" y="328.5" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="middle">6</text>
+<circle cx="404" cy="324" r="12" fill="#1b64be" stroke="#fff" stroke-width="2"/>
+<text x="404" y="328.5" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="middle">7</text>
+<circle cx="64" cy="324" r="12" fill="#1b64be" stroke="#fff" stroke-width="2"/>
+<text x="64" y="328.5" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="middle">8</text>
+</svg>
